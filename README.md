@@ -3,7 +3,7 @@
 
 * [x] [Exercício 1.](https://github.com/Devsgeeknerd/cla-exe-1-hor-pra-1-log-ori-obj-com-bas)
 * [x] [Exercício 2.](https://github.com/Devsgeeknerd/cla-exe-2-hor-pra-1-log-ori-obj-com-bas)
-* [ ] [Exercício 3.](https://github.com/Devsgeeknerd/cla-exe-3-hor-pra-1-log-ori-obj-com-bas) &#128679;
+* [x] [Exercício 3.](https://github.com/Devsgeeknerd/cla-exe-3-hor-pra-1-log-ori-obj-com-bas)
 * [ ] [Exercício 4.](https://github.com/Devsgeeknerd/cla-exe-4-hor-pra-1-log-ori-obj-com-bas) &#128679;
 
 <!-- Informações -->
